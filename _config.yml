@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   tutorials about Meteor, React, React Native and Django.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vodola
+twitter_username: bvodola
 github_username:  bvodola
 
 # Build settings
